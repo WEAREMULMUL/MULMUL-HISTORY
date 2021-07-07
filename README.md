@@ -21,3 +21,10 @@
 ## ✅ 회의록
 
 - [2021-06-30](https://github.com/WEAREMULMUL/MULMUL-HISTORY/blob/master/MeetLog/2021-06-30.md)
+
+## 📚 파트
+> 본인이 진행한 부분을 명시해주세요!
+
+|구분|#|기능명|부연 설명|담당자|REQUEST|RESPONSE|HTTP METHOD|현황|
+|---|---|---|---|---|---|---|---|
+| User | 1 | User Sign | 사용자 회원가입 | 동건 | `/sign` | `/userSign` |GET, POST| 65% |
