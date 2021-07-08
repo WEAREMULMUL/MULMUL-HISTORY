@@ -21,6 +21,7 @@
 ## ✅ 회의록
 
 - [2021-06-30](https://github.com/WEAREMULMUL/MULMUL-HISTORY/blob/master/MeetLog/2021-06-30.md)
+- [2021-07-08](https://github.com/WEAREMULMUL/MULMUL-HISTORY/blob/master/MeetLog/2021-07-08.md)
 
 ## 📚 파트
 > 본인이 진행한 부분을 명시해주세요!
