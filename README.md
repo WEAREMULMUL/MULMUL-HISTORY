@@ -28,3 +28,4 @@
 |구분|#|기능명|설명|담당자|REQUEST|RESPONSE|HTTP METHOD|현황|
 |---|---|---|---|---|---|---|---|---|
 | User | 1 | User Sign | 사용자 회원가입 | 동건 | `/sign` | `/userSign` |GET, POST| 65% |
+| Category | 2 | Category | 카테고리 | 재원 | |  |  | 90% |
