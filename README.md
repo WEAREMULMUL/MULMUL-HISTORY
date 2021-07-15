@@ -44,3 +44,4 @@
 |---|---|---|---|---|---|---|---|---|
 | User | 1 | User Sign | 사용자 회원가입 | 동건 | `/sign` | `/userSign` |GET, POST| 65% |
 | Category | 2 | Category | 카테고리 | 재원 | |  |  | 90% |
+| Chatting | 3 | Chatting | 채팅 | 희찬 |  |  | GET, POST | 0% |
